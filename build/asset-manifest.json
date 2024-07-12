@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78b20ffa.css",
+    "main.js": "/static/js/main.fb48afa9.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/google.png": "/static/media/google.e4a85a2088b406e83caf.png",
+    "static/media/wether back.avif": "/static/media/wether back.d6bfef31c43d12b0bf58.avif",
+    "index.html": "/index.html",
+    "main.78b20ffa.css.map": "/static/css/main.78b20ffa.css.map",
+    "main.fb48afa9.js.map": "/static/js/main.fb48afa9.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78b20ffa.css",
+    "static/js/main.fb48afa9.js"
+  ]
+}

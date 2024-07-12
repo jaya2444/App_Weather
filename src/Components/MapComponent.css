@@ -1,0 +1,13 @@
+/* MapComponent.css */
+
+.map-container {
+  height: 400px; /* Adjust height as needed */
+  width: 100%; /* Adjust width as needed */
+  margin-left: 120rem;
+  margin-top: -47rem;
+  margin-right: 45rem;
+  /* position: relative; */
+  /* margin-left: 90rem;
+  margin-top: -46rem; */
+
+}
